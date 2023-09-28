@@ -1,0 +1,1 @@
+var json_BureaudePUI_9 = {"type":"FeatureCollection","name":"BureaudePUI_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"N":"Première Urgence Internationale"},"geometry":{"type":"Point","coordinates":[14.307722222222223,10.593083333333333]}}]}
